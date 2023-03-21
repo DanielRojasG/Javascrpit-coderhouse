@@ -1,4 +1,3 @@
-// Definimos nuestra base de datos
 const ropa = {
     "pantalon": 10000,
     "camisa": 5000,
